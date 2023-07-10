@@ -86,5 +86,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@Thiagofrf](https://{github.com/your-usermame})
-- Linkedin [Thiago Fontanella](https://www.linkedin.com/in/thiagofontanella/})
+- GitHub [@Thiagofrf](https://github.com/Thiagofrf)
+- Linkedin [Thiago Fontanella](https://www.linkedin.com/in/thiagofontanella/)
